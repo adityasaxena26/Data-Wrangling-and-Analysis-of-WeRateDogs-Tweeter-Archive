@@ -11,3 +11,14 @@ The dataset used for wrangling (and analyzing and visualizing) is the tweet arch
 This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
 
 ![sample image of WeRateDogs from Twitter](Images/WeRateDogs.png)
+
+
+### Softwares Required
+* Jupyter Notebook
+
+The following packages (libraries) need to be installed. You can install these packages via conda or pip.
+* pandas
+* NumPy
+* requests
+* tweepy
+* json
