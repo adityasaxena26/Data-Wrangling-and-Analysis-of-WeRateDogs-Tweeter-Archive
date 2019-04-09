@@ -22,3 +22,11 @@ The following packages (libraries) need to be installed. You can install these p
 * requests
 * tweepy
 * json
+
+### Project Instructions
+1. Clone the repository and navigate to the downloaded folder.
+  ```
+  git clone https://github.com/adityasaxena26/Data-Wrangling-and-Analysis-of-WeRateDogs-Twitter-Archive.git
+  cd Data-Wrangling-and-Analysis-of-WeRateDogs-Twitter-Archive
+  ```
+2. open wrangle_act.ipynb
