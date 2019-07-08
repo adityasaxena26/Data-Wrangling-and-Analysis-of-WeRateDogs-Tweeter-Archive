@@ -14,14 +14,13 @@ This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all
 
 
 ### Softwares Required
-* Jupyter Notebook
-
-The following packages (libraries) need to be installed. You can install these packages via conda or pip.
-* pandas
-* NumPy
-* requests
-* tweepy
-* json
+* [NumPy](https://pypi.org/project/numpy/)
+* [Matplotlib](https://pypi.org/project/matplotlib/)
+* [Pandas](https://pypi.org/project/pandas/)
+* [Requests](https://pypi.org/project/requests/)
+* [tweepy](https://pypi.org/project/tweepy/)
+* [JSON](https://www.json.org/)
+* [Jupyter Notebook](https://jupyter.org/install) 
 
 ### Project Instructions
 1. Clone the repository and navigate to the downloaded folder.
